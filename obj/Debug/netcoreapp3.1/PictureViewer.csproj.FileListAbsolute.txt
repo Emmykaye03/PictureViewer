@@ -1,0 +1,13 @@
+C:\Users\Emmers\source\repos\PictureViewer\bin\Debug\netcoreapp3.1\PictureViewer.exe
+C:\Users\Emmers\source\repos\PictureViewer\bin\Debug\netcoreapp3.1\PictureViewer.deps.json
+C:\Users\Emmers\source\repos\PictureViewer\bin\Debug\netcoreapp3.1\PictureViewer.runtimeconfig.json
+C:\Users\Emmers\source\repos\PictureViewer\bin\Debug\netcoreapp3.1\PictureViewer.runtimeconfig.dev.json
+C:\Users\Emmers\source\repos\PictureViewer\bin\Debug\netcoreapp3.1\PictureViewer.dll
+C:\Users\Emmers\source\repos\PictureViewer\bin\Debug\netcoreapp3.1\PictureViewer.pdb
+C:\Users\Emmers\source\repos\PictureViewer\obj\Debug\netcoreapp3.1\PictureViewer.csprojAssemblyReference.cache
+C:\Users\Emmers\source\repos\PictureViewer\obj\Debug\netcoreapp3.1\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\Emmers\source\repos\PictureViewer\obj\Debug\netcoreapp3.1\PictureViewer.AssemblyInfoInputs.cache
+C:\Users\Emmers\source\repos\PictureViewer\obj\Debug\netcoreapp3.1\PictureViewer.AssemblyInfo.cs
+C:\Users\Emmers\source\repos\PictureViewer\obj\Debug\netcoreapp3.1\PictureViewer.dll
+C:\Users\Emmers\source\repos\PictureViewer\obj\Debug\netcoreapp3.1\PictureViewer.pdb
+C:\Users\Emmers\source\repos\PictureViewer\obj\Debug\netcoreapp3.1\PictureViewer.genruntimeconfig.cache
